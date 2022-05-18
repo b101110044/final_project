@@ -1,4 +1,4 @@
-,number,"sex(man=1,woman=0)",age,neck circumference（cm）,waist circumference（cm）,BMI,maximum interincisal distance（cm）,Mallampati test,ratio of Height to thyro-sternum distance,ESS questionnaire,STOP-Bang questionnaire,no or mild OSA: moderate-severe OSA(0:1)
+,number,"sex(man=1,woman=0)",age,neck circumference(cm),waist circumference(cm),BMI,maximum interincisal distance(cm),Mallampati test,ratio of Height to thyro-sternum distance,ESS questionnaire,STOP-Bang questionnaire,no or mild OSA: moderate-severe OSA(0:1)
 0,1,1,37,38.0,83.0,22.49134948096886,6.0,1,15.454545454545448,0,2,0
 1,2,1,31,40.0,89.0,22.093170054286073,5.0,3,19.777777777777775,4,3,0
 2,3,1,43,37.0,86.0,22.49134948096886,6.0,1,18.88888888888889,3,3,0
